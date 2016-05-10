@@ -7,7 +7,5 @@
 		<script src="<?php echo URL; ?>js/rainbows.js" type="text/javascript"></script>
 	</head>
 	<body id="body" >
-		<main id="main" >
-		</main>
-	</body>
-</html>
+		<main id="main">
+			<section id="section">
